@@ -1,6 +1,9 @@
-homepage: "www.empathy.co",
-documentation: "https://www.empathy.co/docs",
+homepage: "www.empathy.co"
+documentation: "https://www.empathy.co/docs"
 versions:
     #Latest Version
+  - sha: a169e4b5b771d22ff82004d352256a1ec1432c7a
+    changeNotes: Include categories on the template.tpl 
+    #Older versions
   - sha: 59369a2c5463af91d31a25226b813cf79943ba6c
     changeNotes: Support Empathy platform and SaaS URI's on different environments
